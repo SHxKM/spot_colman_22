@@ -1,0 +1,71 @@
+{
+  "Label": "CPUUtilization",
+  "Datapoints": [
+    {
+      "Timestamp": "2022-03-26 16:43:00+00:00",
+      "Average": 0.13393631053325739,
+      "Unit": "Percent"
+    },
+    {
+      "Timestamp": "2022-03-26 16:57:00+00:00",
+      "Average": 0.1667231957791596,
+      "Unit": "Percent"
+    },
+    {
+      "Timestamp": "2022-03-26 16:53:00+00:00",
+      "Average": 0.1666666666666666,
+      "Unit": "Percent"
+    },
+    {
+      "Timestamp": "2022-03-26 16:27:00+00:00",
+      "Average": 0.10112994350282381,
+      "Unit": "Percent"
+    },
+    {
+      "Timestamp": "2022-03-26 17:07:00+00:00",
+      "Average": 0.16779661016949138,
+      "Unit": "Percent"
+    },
+    {
+      "Timestamp": "2022-03-26 16:23:00+00:00",
+      "Average": 0.1338983050847452,
+      "Unit": "Percent"
+    },
+    {
+      "Timestamp": "2022-03-26 17:03:00+00:00",
+      "Average": 0.1983791794016862,
+      "Unit": "Percent"
+    },
+    {
+      "Timestamp": "2022-03-26 16:37:00+00:00",
+      "Average": 0.166703713994628,
+      "Unit": "Percent"
+    },
+    {
+      "Timestamp": "2022-03-26 16:33:00+00:00",
+      "Average": 0.09890710382513819,
+      "Unit": "Percent"
+    },
+    {
+      "Timestamp": "2022-03-26 17:13:00+00:00",
+      "Average": 0.16623052607102679,
+      "Unit": "Percent"
+    },
+    {
+      "Timestamp": "2022-03-26 16:47:00+00:00",
+      "Average": 0.1661387422432156,
+      "Unit": "Percent"
+    }
+  ],
+  "ResponseMetadata": {
+    "RequestId": "77322839-f2b8-48f4-be90-006710bda021",
+    "HTTPStatusCode": 200,
+    "HTTPHeaders": {
+      "x-amzn-requestid": "77322839-f2b8-48f4-be90-006710bda021",
+      "content-type": "text/xml",
+      "content-length": "2096",
+      "date": "Sat, 26 Mar 2022 17:19:09 GMT"
+    },
+    "RetryAttempts": 0
+  }
+}
